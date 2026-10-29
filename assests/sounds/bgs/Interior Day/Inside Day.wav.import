@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bqw2trqo0asia"
+path="res://.godot/imported/Inside Day.wav-793d34be57d4c2012e966fc904d5db40.sample"
+
+[deps]
+
+source_file="res://assests/sounds/bgs/Interior Day/Inside Day.wav"
+dest_files=["res://.godot/imported/Inside Day.wav-793d34be57d4c2012e966fc904d5db40.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

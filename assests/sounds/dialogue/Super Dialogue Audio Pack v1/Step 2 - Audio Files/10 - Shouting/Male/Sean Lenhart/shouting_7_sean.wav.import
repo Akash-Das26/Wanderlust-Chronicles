@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://co6dtg5pp76hh"
+path="res://.godot/imported/shouting_7_sean.wav-ecc62dc6c0f57240a348d97c7c3c881c.sample"
+
+[deps]
+
+source_file="res://assests/sounds/dialogue/Super Dialogue Audio Pack v1/Step 2 - Audio Files/10 - Shouting/Male/Sean Lenhart/shouting_7_sean.wav"
+dest_files=["res://.godot/imported/shouting_7_sean.wav-ecc62dc6c0f57240a348d97c7c3c881c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

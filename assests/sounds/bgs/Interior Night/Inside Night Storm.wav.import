@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b0hm8kqm6l8y3"
+path="res://.godot/imported/Inside Night Storm.wav-1d31e8aed2b66b3cc1ec7993cfc6bf11.sample"
+
+[deps]
+
+source_file="res://assests/sounds/bgs/Interior Night/Inside Night Storm.wav"
+dest_files=["res://.godot/imported/Inside Night Storm.wav-1d31e8aed2b66b3cc1ec7993cfc6bf11.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

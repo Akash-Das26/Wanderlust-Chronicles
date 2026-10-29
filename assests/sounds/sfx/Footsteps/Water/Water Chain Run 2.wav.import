@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://broqpnjlj1vwk"
+path="res://.godot/imported/Water Chain Run 2.wav-912cc37ab00909f983903520aacc5cec.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Footsteps/Water/Water Chain Run 2.wav"
+dest_files=["res://.godot/imported/Water Chain Run 2.wav-912cc37ab00909f983903520aacc5cec.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

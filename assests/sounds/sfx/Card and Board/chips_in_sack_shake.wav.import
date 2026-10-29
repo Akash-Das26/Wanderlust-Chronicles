@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://citl5cceqj0f"
+path="res://.godot/imported/chips_in_sack_shake.wav-d66a2988d57439b6701118b7d12f3b70.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Card and Board/chips_in_sack_shake.wav"
+dest_files=["res://.godot/imported/chips_in_sack_shake.wav-d66a2988d57439b6701118b7d12f3b70.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

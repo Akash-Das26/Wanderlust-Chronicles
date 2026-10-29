@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ds1xiqcipsi67"
+path="res://.godot/imported/damage_4_meghan.wav-15a2689f792e25799b392ad1171de590.sample"
+
+[deps]
+
+source_file="res://assests/sounds/dialogue/Super Dialogue Audio Pack v1/Step 2 - Audio Files/7 - Damage/Female/Meghan Christian/damage_4_meghan.wav"
+dest_files=["res://.godot/imported/damage_4_meghan.wav-15a2689f792e25799b392ad1171de590.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

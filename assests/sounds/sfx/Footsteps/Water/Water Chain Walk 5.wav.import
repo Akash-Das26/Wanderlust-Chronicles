@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ghask15ewr6e"
+path="res://.godot/imported/Water Chain Walk 5.wav-e5f6550b74b686e16dc3d7edb10c7860.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Footsteps/Water/Water Chain Walk 5.wav"
+dest_files=["res://.godot/imported/Water Chain Walk 5.wav-e5f6550b74b686e16dc3d7edb10c7860.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

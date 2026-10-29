@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c5qr75gjksf20"
+path="res://.godot/imported/Door Open 1.wav-979742533152427787c474c56765a44b.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Doors Gates and Chests/Door Open 1.wav"
+dest_files=["res://.godot/imported/Door Open 1.wav-979742533152427787c474c56765a44b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

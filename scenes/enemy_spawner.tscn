@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://dim301uhjugxy"]
+
+[node name="EnemySpawner" type="Node2D" unique_id=1619851759]
+
+[node name="SpawnTimer" type="Timer" parent="." unique_id=1962845385]

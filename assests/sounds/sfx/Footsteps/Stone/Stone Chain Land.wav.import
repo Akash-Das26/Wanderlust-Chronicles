@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bptmesml5v2mt"
+path="res://.godot/imported/Stone Chain Land.wav-4c3b55dd27f1517b3a8ea391b5fe21c6.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Footsteps/Stone/Stone Chain Land.wav"
+dest_files=["res://.godot/imported/Stone Chain Land.wav-4c3b55dd27f1517b3a8ea391b5fe21c6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

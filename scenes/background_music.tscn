@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://dum061lda8ocy"]
+
+[ext_resource type="AudioStream" uid="uid://bke3qww3f1jk0" path="res://assests/sounds/music/time_for_adventure.mp3" id="1_0rulj"]
+
+[node name="BackgroundMusic" type="AudioStreamPlayer" unique_id=1314505348]
+process_mode = 3
+stream = ExtResource("1_0rulj")
+autoplay = true
+bus = &"Musics"

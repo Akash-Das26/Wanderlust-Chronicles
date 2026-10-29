@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://chv88764yphjx"
+path="res://.godot/imported/Rock Wall 2.wav-4e89e13512ff9ee1d6e28059d02ff6c4.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Spells/Rock Wall 2.wav"
+dest_files=["res://.godot/imported/Rock Wall 2.wav-4e89e13512ff9ee1d6e28059d02ff6c4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

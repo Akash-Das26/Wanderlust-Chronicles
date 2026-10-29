@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bcwmhg868fhp6"
+path="res://.godot/imported/Waterspray 1.wav-9852b60d532b11a0b5c0164c6d05c001.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Spells/Waterspray 1.wav"
+dest_files=["res://.godot/imported/Waterspray 1.wav-9852b60d532b11a0b5c0164c6d05c001.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

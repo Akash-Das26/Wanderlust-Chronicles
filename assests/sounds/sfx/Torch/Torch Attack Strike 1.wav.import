@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c2bnoyimha8l2"
+path="res://.godot/imported/Torch Attack Strike 1.wav-a409dbb1c515cb85c24e2682ab6e311a.sample"
+
+[deps]
+
+source_file="res://assests/sounds/sfx/Torch/Torch Attack Strike 1.wav"
+dest_files=["res://.godot/imported/Torch Attack Strike 1.wav-a409dbb1c515cb85c24e2682ab6e311a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

@@ -1,0 +1,81 @@
+[gd_scene format=3 uid="uid://duf43pgsb8y3c"]
+
+[ext_resource type="Texture2D" uid="uid://ch7582sueet6h" path="res://assests/Tiny Swords (Free Pack) (2)/Terrain/Resources/Wood/Trees/Tree1.png" id="1_avsvi"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vplca"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(0, 0, 192, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_viusy"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(192, 0, 192, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qd6xs"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(384, 0, 192, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ake3r"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(576, 0, 192, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_18mvg"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(768, 0, 192, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_dmmp0"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(960, 0, 192, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_m26wl"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(1152, 0, 192, 256)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5yujg"]
+atlas = ExtResource("1_avsvi")
+region = Rect2(1344, 0, 192, 256)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_htemk"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vplca")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_viusy")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qd6xs")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ake3r")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_18mvg")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_dmmp0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_m26wl")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5yujg")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 10.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_htemk"]
+
+[node name="Tree" type="StaticBody2D" unique_id=454725197]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1855963866]
+sprite_frames = SubResource("SpriteFrames_htemk")
+autoplay = "default"
+frame_progress = 0.5224105
+offset = Vector2(0, -75)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1999700966]
+position = Vector2(0, 12)
+shape = SubResource("CircleShape2D_htemk")

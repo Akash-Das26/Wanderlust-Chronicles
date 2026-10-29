@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dykj4f1251811"
+path="res://.godot/imported/greeting_5_sean.wav-5b5d6703da0bf5204b60c66c3863e26b.sample"
+
+[deps]
+
+source_file="res://assests/sounds/dialogue/Super Dialogue Audio Pack v1/Step 2 - Audio Files/3 - Greeting/Male/Sean Lenhart/greeting_5_sean.wav"
+dest_files=["res://.godot/imported/greeting_5_sean.wav-5b5d6703da0bf5204b60c66c3863e26b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
